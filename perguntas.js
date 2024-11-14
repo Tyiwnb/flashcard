@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Carros',
+    'que carro é inspirado o relampago mcqueen?',
+    'Chevrolet corvete c6'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Velosos e Furiosos',
+    'Qual o primeiro carro do Brian?',
+    'É o mitsubshi Eclipse verde de segunda geração'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Bob esponja',
+    'Qual o bicho de estimação do bob?',
+    'Seu  caramujo de estimação garry'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'One piece',
+    'Qual fruta o luffy comeu?',
+    'A fruta gomo gomo no mi ou mais conhecida como akuma no mi'
+)
+
+criaCartao(
+    'Dragon Ball',
+    'Quem é o principe dos sayajins?',
+    ' É o vegetta'
+)
+
+criaCartao(
+    'Naruto',
+    'Quem é o pai de naruto?',
+    'O pai de naruto é o minato'
 )
